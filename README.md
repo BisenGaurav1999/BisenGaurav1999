@@ -2,6 +2,6 @@
 - ✏️ I’m currently pursuing PG Diploma in Advanced Computing from CDAC, Pune.
 - 👀 I’m interested in backend development.
 - 💼 I have a Bachelor's degree in Computer Science & Engineering.
-- 📫 Reach me at
+- 📫 Reach me at bisen.gaurav.1999@gmail.com
 
 
